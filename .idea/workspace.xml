@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94eaef13-bf0c-4ff7-8787-363e06bc5d31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Target-Tecnica.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountingLetterA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciChecker.java" afterDir="false" />
+    <list default="true" id="94eaef13-bf0c-4ff7-8787-363e06bc5d31" name="Changes" comment="Questao 1 e 2">
+      <change afterPath="$PROJECT_DIR$/src/Indice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sequencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LoryAF"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LoryAF/Target-Tecnica.git",
+    "accountId": "4b0ceda1-15b8-4a60-a0cd-bca269de8c98"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -43,14 +47,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ContagemLetraA.executor": "Run",
     "Application.FibonacciChecker.executor": "Run",
+    "Application.Indice.executor": "Run",
+    "Application.Sequencia.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ContagemLetraA">
+  <component name="RunManager" selected="Application.Sequencia">
     <configuration name="ContagemLetraA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContagemLetraA" />
       <module name="Target-Tecnica" />
@@ -65,8 +72,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Indice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Indice" />
+      <module name="Target-Tecnica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sequencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sequencia" />
+      <module name="Target-Tecnica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequencia" />
+        <item itemvalue="Application.Indice" />
         <item itemvalue="Application.ContagemLetraA" />
         <item itemvalue="Application.FibonacciChecker" />
       </list>
@@ -81,6 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729615245777</updated>
     </task>
+    <task id="LOCAL-00001" summary="Questao 1 e 2">
+      <option name="closed" value="true" />
+      <created>1729616244063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729616244063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Questao 1 e 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Questao 1 e 2" />
   </component>
 </project>
