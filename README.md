@@ -7,7 +7,7 @@
 
 ## Questão 2.
 
-**Resposta da Questão 2:** [Fibonacci](https://github.com/LoryAF/Target-Tecnica/blob/master/src/ContagemLetraA.java)
+**Resposta da Questão 2:** [ContagemLetraA](https://github.com/LoryAF/Target-Tecnica/blob/master/src/ContagemLetraA.java)
 
 ## Questão 3.
 
